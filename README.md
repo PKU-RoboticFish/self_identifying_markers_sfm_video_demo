@@ -1,1 +1,10 @@
-# self_identifying_markers_sfm_video_demo
+# 这个仓库不包含视频，有需要的话线下copy？
+
+主要是视频未压缩，会占过大的体积。视频依先后次序分为三段：video1, 2, 3
+
+这个仓库包含了
+
+- 一段视频。视频转出的1110张图片，在registration_image.7z内
+- 1110张图片的处理结果，在result.7z内
+- 相机标定用的图像以及标定结果。
+

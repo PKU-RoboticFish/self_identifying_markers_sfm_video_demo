@@ -1,0 +1,32 @@
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\parallel\registry_parallel.impl.hpp (96) cv::parallel::ParallelBackendRegistry::ParallelBackendRegistry core(parallel): Enabled backends(3, sorted by priority): ONETBB(1000); TBB(990); OPENMP(980)
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load C:\Program Files\opencv\build\x64\vc15\bin\opencv_core_parallel_onetbb452_64d.dll => FAILED
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load opencv_core_parallel_onetbb452_64d.dll => FAILED
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load C:\Program Files\opencv\build\x64\vc15\bin\opencv_core_parallel_tbb452_64d.dll => FAILED
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load opencv_core_parallel_tbb452_64d.dll => FAILED
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load C:\Program Files\opencv\build\x64\vc15\bin\opencv_core_parallel_openmp452_64d.dll => FAILED
+[ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load opencv_core_parallel_openmp452_64d.dll => FAILED
+matrix_coordinate:7 sub-pixel_coordinate:931.947 975.898
+matrix_coordinate:22 sub-pixel_coordinate:1063.999 1013.644
+matrix_coordinate:37 sub-pixel_coordinate:1198.088 1052.217
+matrix_coordinate:52 sub-pixel_coordinate:1334.122 1090.975
+matrix_coordinate:8 sub-pixel_coordinate:901.719 1107.882
+matrix_coordinate:67 sub-pixel_coordinate:1472.784 1130.609
+matrix_coordinate:23 sub-pixel_coordinate:1032.279 1146.370
+matrix_coordinate:82 sub-pixel_coordinate:1612.805 1170.272
+matrix_coordinate:38 sub-pixel_coordinate:1164.333 1185.099
+matrix_coordinate:9 sub-pixel_coordinate:884.378 1225.172
+matrix_coordinate:53 sub-pixel_coordinate:1299.059 1224.974
+matrix_coordinate:24 sub-pixel_coordinate:1010.675 1264.258
+matrix_coordinate:68 sub-pixel_coordinate:1435.270 1264.585
+matrix_coordinate:39 sub-pixel_coordinate:1139.853 1303.581
+matrix_coordinate:83 sub-pixel_coordinate:1574.475 1305.249
+matrix_coordinate:10 sub-pixel_coordinate:880.071 1316.612
+matrix_coordinate:54 sub-pixel_coordinate:1270.526 1342.587
+matrix_coordinate:25 sub-pixel_coordinate:1003.306 1355.734
+matrix_coordinate:69 sub-pixel_coordinate:1403.332 1382.740
+matrix_coordinate:40 sub-pixel_coordinate:1125.642 1393.375
+matrix_coordinate:84 sub-pixel_coordinate:1537.489 1422.805
+matrix_coordinate:55 sub-pixel_coordinate:1252.558 1432.585
+matrix_coordinate:70 sub-pixel_coordinate:1379.288 1471.223
+matrix_coordinate:85 sub-pixel_coordinate:1510.386 1509.987
+C:\Users\asus\Documents\Program\video_demo\registration_image\video3\166.jpgprocessed!
